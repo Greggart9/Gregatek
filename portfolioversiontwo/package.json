@@ -2,6 +2,7 @@
   "name": "portfolioversiontwo",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@12.4.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -13,6 +14,7 @@
     "framer-motion": "^12.24.12",
     "gsap": "^3.14.2",
     "next": "16.1.1",
+    "next-cloudinary": "^6.19.0",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "split-type": "^0.3.4"

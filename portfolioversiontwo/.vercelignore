@@ -1,0 +1,25 @@
+# Git and Vercel metadata
+.git/
+.vercel/
+
+# Dependencies and generated output
+node_modules/
+.next/
+out/
+build/
+coverage/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Local tooling and logs
+.vscode/
+.idea/
+.cache/
+.eslintcache
+*.log
+*.tsbuildinfo
+.DS_Store
